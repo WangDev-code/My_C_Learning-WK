@@ -1,2 +1,2 @@
-# Algorithm-practice
+# Algorithm-practice（这里记录了我坚持每天都刷几道PTA或者Leetcode代码函数题，可以查看绿墙验证）
 这里记录了我从零开始学习c语言（翁恺）的配套代码函数练习以及全部的PTA、Leetcode题目练习(“项目说明：本项目早期代码在VS中编写，若github网页显示中文注释乱码，请下载至本地使用UTF-8编码查看，中后期代码我已经下载Extensions插件自动改为UTF-8格式，请放心查看”）
